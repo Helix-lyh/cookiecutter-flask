@@ -1,9 +1,9 @@
 {
-	"full_name": "Steven Loria",
-	"email": "sloria1@gmail.com",
-	"github_username": "sloria",
-	"project_name": "My Flask App",
-	"app_name": "myflaskapp",
-	"project_short_description": "A flasky app.",
+	"full_name": "Helix",
+	"email": "yunhai_liu@sui.com",
+	"github_username": "lymysql@163.com",
+	"project_name": "Sui Finance Tester Flask App",
+	"app_name": "mainApp",
+	"project_short_description": "Sui Finance Tester for",
 	"use_pipenv": ["no", "yes"]
 }

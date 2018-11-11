@@ -16,10 +16,10 @@ COOKIE = os.path.join(HERE, COOKIECUTTER_SETTINGS['app_name'])
 REQUIREMENTS = os.path.join(COOKIE, 'requirements', 'dev.txt')
 
 
-def _run_npm_command(ctx, command):
-    os.chdir(COOKIE)
-    ctx.run('npm {0}'.format(command), echo=True)
-    os.chdir(HERE)
+# def _run_npm_command(ctx, command):
+#     os.chdir(COOKIE)
+#     ctx.run('npm {0}'.format(command), echo=True)
+#     os.chdir(HERE)
 
 
 @task
